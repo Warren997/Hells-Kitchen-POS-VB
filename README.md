@@ -5,4 +5,4 @@ This project got perfect score, because my teacher didnt expect someone can make
 To open this project please download this repo open >> Point of Sale\bin\Debug and click the "Point of Sales.exe"\
 To log in use one account in the "HKDatabes.mdb" in the same folder.
 
-![](Point of sales/Resourses/thumbnail.png)
+![](thumbnail/thumbnail.png)

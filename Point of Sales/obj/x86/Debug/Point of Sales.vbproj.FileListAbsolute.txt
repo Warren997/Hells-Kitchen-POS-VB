@@ -1,0 +1,466 @@
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sales - Copy - Copy (4) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\1 - Copy - Copy - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1)\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale  z(1) - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Final - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\Point of Sale - Copy - Copy - Copy - Copy - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2)\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (2) - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\POS\New folder\Point of Sale - Copy (3) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\Assignment\@@Final\Point of Sale - Final - Copy - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.exe
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.pdb
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\bin\Debug\Point of Sales.xml
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\@School\DIT 1\@@Final\Point of Sale - Final - Copy\Point of Sales\obj\x86\Debug\Point of Sales.vbproj.GenerateResource.Cache

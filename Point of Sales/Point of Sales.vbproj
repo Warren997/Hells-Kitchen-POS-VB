@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6A076E2E-53A1-47D3-A952-8A2B6ACD5047}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Point of Sales</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Point of Sales.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Point of Sales.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1-Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1-Login.Designer.vb">
+      <DependentUpon>Form1-Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2-Orders.Designer.vb">
+      <DependentUpon>Form2-Orders.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2-Orders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3-Receipt.Designer.vb">
+      <DependentUpon>Form3-Receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3-Receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1-Login.resx">
+      <DependentUpon>Form1-Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2-Orders.resx">
+      <DependentUpon>Form2-Orders.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3-Receipt.resx">
+      <DependentUpon>Form3-Receipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kitchen-fire-shutterstock_1008895837-800x450.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hells-kitchen-5bb30ac5140dc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_twitter-icons-png_2837538.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_twitter-icons-png_28375381.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_twitter-icons-png_28375382.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_lock-icon-png_2886738.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_lock-icon-png_28867381.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2ewewwewe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hells-kitchen-5bb517fc84fcb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_menu-icon-png_881253.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hells-kitchen-5bb517fc84fcb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9a3b8e3b94b38014e99772c72ced4e5b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9a3b8e3b94b38014e99772c72ced4e5bwwwww.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11111111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22222222.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hells-kitchen-5bb63e2ed1840.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
